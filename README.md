@@ -1,3 +1,34 @@
+# Emotional Physics Civilization Simulator (EPCS)
+
+## About
+
+EPCS is a simulation that explores the impact of emotional physics on social behavior and dynamics. This project aims to provide insights into how emotions influence decision-making, relationships, and interactions within societies.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   
+   git clone https://github.com/jscamargo-cyber/EMOTIONAL-PHYSICS-CIVILIZATION-SIMULATOR-EPCS.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # EMOTIONAL-PHYSICS-CIVILIZATION-SIMULATOR-EPCS-
 Objetivo final: El primer simulador de civilización en tiempo real cuyas leyes físicas (gravedad, tiempo, electromagnetismo, magia, etc.) cambian según el estado emocional colectivo de los jugadores conectados.
 
