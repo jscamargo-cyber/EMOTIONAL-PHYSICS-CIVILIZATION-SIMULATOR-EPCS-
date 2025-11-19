@@ -11,6 +11,25 @@ EPCS is a simulation that explores the impact of emotional physics on social beh
    
    git clone https://github.com/jscamargo-cyber/EMOTIONAL-PHYSICS-CIVILIZATION-SIMULATOR-EPCS.git
 
+2.  Navigate to the project directory:
+
+cd EMOTIONAL-PHYSICS-CIVILIZATION-SIMULATOR-EPCS
+
+3.  Install dependencies (if any):
+
+ pip install -r requirements.txt
+
+Usage
+
+If you're using a GUI, follow the instructions in the README.md file or consult the user manual. For command-line usage, refer to the documentation provided with your application.
+Contributing
+
+Contributions are welcome! Check the Contributing Guidelines for more details on how to get involved.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
